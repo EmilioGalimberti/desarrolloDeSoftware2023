@@ -1,0 +1,59 @@
+FUNCIONES DE FECHAS 02
+
+date(timestring, modifier, modifier, ...): 
+
+Devuelve la fecha especificada en la cadena timestring. Los modificadores 
+opcionales se pueden usar para ajustar la fecha. Por ejemplo, '+1 day' 
+agrega un día a la fecha especificada.
+
+time(timestring, modifier, modifier, ...): 
+
+Devuelve la hora especificada en la cadena timestring. Los modificadores 
+opcionales se pueden usar para ajustar la hora.
+
+datetime(timestring, modifier, modifier, ...): 
+
+Devuelve la fecha y hora especificadas en la cadena timestring. 
+Los modificadores opcionales se pueden usar para ajustar la fecha y la hora.
+
+julianday(timestring, modifier, modifier, ...): 
+
+Devuelve el número de días Julian correspondiente a la fecha especificada 
+en la cadena timestring. Los modificadores opcionales se pueden usar para
+ ajustar la fecha.
+
+strftime(format, timestring, modifier, modifier, ...): 
+
+Devuelve la fecha y/o hora formateada según el especificador de formato format.
+La cadena timestring especifica la fecha y/o hora que se formateará. 
+Los modificadores opcionales se pueden usar para ajustar la fecha y/o hora.
+
+date('now'): 
+
+Devuelve la fecha actual en el formato YYYY-MM-DD.
+
+time('now'): 
+
+Devuelve la hora actual en el formato HH:MM:SS.
+
+datetime('now'): 
+
+Devuelve la fecha y hora actual en el formato YYYY-MM-DD HH:MM:SS.
+
+strftime('%s', timestring, modifier, modifier, ...): 
+
+Devuelve la fecha y hora en segundos desde la época Unix correspondiente
+a la fecha especificada en la cadena timestring. Los modificadores opcionales 
+se pueden usar para ajustar la fecha y/o hora.
+
+strftime('%Y', timestring, modifier, modifier, ...): 
+
+Devuelve el año correspondiente a la fecha especificada en la cadena 
+timestring. Los modificadores opcionales se pueden usar para ajustar la fecha.
+
+strftime('%m', timestring, modifier, modifier, ...): 
+
+Devuelve el mes correspondiente a la fecha especificada en la cadena 
+timestring. Los modificadores opcionales se pueden usar para ajustar la fecha.
+
+strftime('%d', timestring, modifier, modifier, ...): Devuelve el día del mes correspondiente a la fecha especificada en la cadena timestring. Los modificadores opcionales se pueden usar para ajustar la fecha.

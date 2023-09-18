@@ -1,0 +1,39 @@
+SQLITE TIPOS DE DATOS
+
+SQLite admite varios tipos de datos, que se utilizan para definir el tipo de 
+valores que pueden ser almacenados en una tabla. A continuación se presentan 
+los tipos de datos admitidos por SQLite:
+
+INTEGER: Para almacenar valores numéricos enteros.
+
+REAL: Para almacenar valores numéricos de punto flotante.
+
+TEXT: Para almacenar valores de cadena de caracteres.
+
+BLOB: Para almacenar datos binarios, como imágenes, archivos de audio o video.
+
+NULL: Para almacenar valores nulos o vacíos.
+
+Además de estos tipos de datos básicos, SQLite también admite los siguientes 
+tipos de datos:
+
+NUMERIC: Para almacenar valores numéricos genéricos, que pueden ser enteros 
+o de punto flotante.
+
+BOOLEAN: Para almacenar valores booleanos, que pueden ser verdadero o falso.
+
+DATE: Para almacenar valores de fecha, como "2023-03-17".
+
+TIME: Para almacenar valores de tiempo, como "12:30:45".
+
+DATETIME: Para almacenar valores de fecha y tiempo combinados, como 
+"2023-03-17 12:30:45".
+
+TIMESTAMP: Para almacenar valores de fecha y hora en formato UNIX, 
+que se miden en segundos desde el 1 de enero de 1970 a las 00:00:00 UTC.
+
+Estos son los tipos de datos que SQLite admite. Cada tipo de dato tiene su 
+propio rango de valores y formato de almacenamiento, por lo que es 
+importante elegir el tipo de dato adecuado al definir las tablas y las columnas
+en una base de datos SQLite.
+

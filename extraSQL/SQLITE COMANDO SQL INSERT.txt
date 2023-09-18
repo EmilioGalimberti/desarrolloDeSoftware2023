@@ -1,0 +1,21 @@
+SQLITE COMANDO SQL INSERT
+
+El comando "INSERT" se utiliza en SQLite para insertar una nueva fila o registro
+en una tabla. La sintaxis básica del comando es la siguiente:
+
+INSERT INTO nombre_tabla (columna1, columna2, columna3, ...) 
+   VALUES (valor1, valor2, valor3, ...);
+
+Donde "nombre_tabla" es el nombre de la tabla en la que se desea insertar la 
+nueva fila, y "columna1", "columna2", "columna3", ... son los nombres de las 
+columnas en la tabla en las que se desea insertar los valores. 
+"valor1", "valor2", "valor3", ... son los valores que se desean insertar en 
+esas columnas.
+
+Por ejemplo, si se desea insertar un nuevo registro en una tabla llamada 
+"clientes" con los valores "Juan", "Pérez" y "jperez@email.com" en las 
+columnas "nombre", "apellido" y "email", respectivamente, el comando 
+sería el siguiente:
+
+INSERT INTO clientes (nombre, apellido, email) 
+VALUES ('Juan', 'Pérez', 'jperez@email.com');

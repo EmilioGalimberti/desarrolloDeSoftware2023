@@ -1,0 +1,26 @@
+SQLITE EL COMANDO SELECT
+
+El comando "SELECT" en SQLite se utiliza para recuperar datos de una o más 
+tablas. La sintaxis básica es la siguiente:
+
+SELECT column1, column2, ... FROM table_name WHERE condition;
+
+Donde:
+"column1", "column2", ... son los nombres de las columnas que se desean 
+recuperar.
+"table_name" es el nombre de la tabla desde la que se desean recuperar los 
+datos.
+"condition" es una condición opcional que se utiliza para filtrar los 
+resultados.
+Por ejemplo, para seleccionar todos los datos de la tabla "customers", se puede 
+usar el siguiente comando:
+
+SELECT * FROM customers;
+
+Esto seleccionará todas las columnas y todas las filas de la tabla "customers".
+También se pueden agregar condiciones para filtrar los resultados, por ejemplo:
+
+SELECT * FROM customers WHERE city='New York';
+
+Esto seleccionará todas las columnas y todas las filas de la tabla "customers" 
+donde la ciudad sea "New York".

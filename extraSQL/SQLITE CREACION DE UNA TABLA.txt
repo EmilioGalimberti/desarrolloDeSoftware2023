@@ -1,0 +1,31 @@
+SQLITE CREACION DE UNA TABLA
+
+Para crear una tabla en SQLite, se utiliza el comando "CREATE TABLE". 
+El siguiente es un ejemplo de cómo crear una tabla llamada "usuarios" 
+con tres columnas: "id", "nombre" y "edad":
+
+CREATE TABLE usuarios (
+    id INTEGER PRIMARY KEY,
+    nombre TEXT,
+    edad INTEGER
+);
+
+En este ejemplo, "id" es la clave primaria de la tabla, lo que significa que 
+cada fila tendrá un valor único en esta columna. "nombre" y "edad" son columnas
+ que pueden contener valores de texto y números enteros, respectivamente.
+
+También puedes agregar otras restricciones y especificaciones al definir cada 
+columna, como la longitud máxima de caracteres para una columna de texto o el 
+tipo de datos para una columna numérica. Por ejemplo:
+
+
+CREATE TABLE usuarios (
+    id INTEGER PRIMARY KEY,
+    nombre TEXT NOT NULL,
+    edad INTEGER CHECK (edad >= 18)
+);
+
+En este ejemplo, se ha especificado que la columna "nombre" no puede estar vacía
+("NOT NULL"), y que la columna "edad" debe ser igual o mayor a 18 años 
+("CHECK (edad >= 18)").
+

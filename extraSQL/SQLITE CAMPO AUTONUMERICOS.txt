@@ -1,0 +1,20 @@
+CAMPO PK INTEGER AUTOINCREMENTAL
+
+En SQLite, se pueden crear campos auto-incrementales utilizando el tipo de dato 
+"INTEGER" y la propiedad "AUTOINCREMENT". Por ejemplo, para crear una tabla con 
+un campo "id" que se incremente automáticamente en cada inserción de fila, 
+se puede utilizar la siguiente sintaxis:
+
+
+CREATE TABLE ejemplo (
+  id INTEGER PRIMARY KEY AUTOINCREMENT,
+  nombre TEXT,
+  edad INTEGER
+);
+
+En este ejemplo, el campo "id" se define como clave primaria utilizando la 
+cláusula "PRIMARY KEY" y se agrega la propiedad "AUTOINCREMENT" para que 
+SQLite lo incremente automáticamente en cada inserción de fila.
+Para que sqlite tome correctamente al argumento de auto-incremental
+debe estar definido como PRIMARY KEY
+

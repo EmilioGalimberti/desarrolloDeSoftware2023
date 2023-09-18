@@ -1,0 +1,21 @@
+MODIFICADORES PARA FUNCIONES DE FECHAS
+
+'+N days' o '-N days': 
+Agrega o resta N días a la fecha. Por ejemplo, DATE('now', '+3 days') 
+devuelve la fecha actual más tres días.
+
+'+N months' o '-N months': 
+Agrega o resta N meses a la fecha. Por ejemplo, 
+DATE('now', '+2 months') devuelve la fecha actual más dos meses.
+
+'+N years' o '-N years': 
+Agrega o resta N años a la fecha. Por ejemplo, 
+DATE('now', '+1 year') devuelve la fecha actual más un año.
+
+'start of N': Devuelve la fecha de inicio del período especificado. 
+Por ejemplo, DATE('now', 'start of month') devuelve la fecha de inicio 
+del mes actual.
+
+'end of N': Devuelve la fecha de finalización del período especificado. 
+Por ejemplo, DATE('now', 'end of year') devuelve la fecha de finalización 
+del año actual.

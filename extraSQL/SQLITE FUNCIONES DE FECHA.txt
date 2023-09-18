@@ -1,0 +1,53 @@
+SQLITE FUNCIONES DE FECHA
+
+SQLite proporciona varias funciones de fecha y hora que se pueden utilizar para 
+realizar cálculos y manipulaciones con fechas y horas. Algunas de las funciones 
+más comunes son las siguientes:
+
+date(): esta función devuelve la fecha actual en formato YYYY-MM-DD.
+Ejemplo: SELECT date();
+
+time(): esta función devuelve la hora actual en formato HH:MM:SS.
+Ejemplo: SELECT time();
+
+datetime(): esta función devuelve la fecha y hora actuales en 
+formato YYYY-MM-DD HH:MM:SS.
+
+Ejemplo: SELECT datetime();
+
+strftime(): esta función se utiliza para formatear una fecha y hora en una 
+cadena de caracteres según un formato especificado. Los formatos más comunes 
+son los siguientes:
+
+%Y: año con cuatro dígitos.
+%m: mes con dos dígitos.
+%d: día del mes con dos dígitos.
+%H: hora con dos dígitos en formato de 24 horas.
+%M: minutos con dos dígitos.
+%S: segundos con dos dígitos.
+%w: día de la semana en formato numérico (0 para domingo, 1 para lunes, etc.).
+%j: día del año con tres dígitos.
+
+Ejemplo: SELECT strftime('%Y-%m-%d', 'now');
+
+Esta consulta devuelve la fecha actual en formato YYYY-MM-DD.
+
+julianday(): esta función devuelve el número de días julianos correspondiente a 
+una fecha y hora especificadas.
+
+Ejemplo: SELECT julianday('2023-03-18 12:00:00');
+
+Esta consulta devuelve el número de días julianos correspondiente al 18 de 
+marzo de 2023 a las 12:00:00.
+
+datepart(): esta función se utiliza para obtener una parte específica de una 
+fecha y hora, como el año, el mes, el día, la hora, los minutos o los segundos.
+
+Ejemplo: SELECT datepart('year', '2023-03-18');
+
+Esta consulta devuelve el año correspondiente al 18 de marzo de 2023.
+
+Estas son algunas de las funciones de fecha y hora más comunes en SQLite. 
+Para obtener más información sobre estas y otras funciones, consulte la 
+documentación oficial de SQLite.
+
