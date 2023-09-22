@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+   <!-- Include Head -->
+<%- include('partials/head', {title: 'Formulario de creación'}) %>
+
+<body>
+    <!-- Header -->
+	    <%- include('partials/headerNavbar') %>
+	<!-- /Header -->>
+    <main>
+        <form action="/login" method="POST">
+            <label for="user">Usario</label>
+            <input type="text" name='user' id="user" required><br><br>
+            <label for="color">Color de usuario</label>
+            <select name="color">
+                <option selected value="0">Eliga una opcion</option>
+                <option value="2">azul</option>
+                <option value="3">rojo</option>
+            </select required><br><br>
+            <label for="email" >Email</label>
+            <input type="email" name='email' id="email" required><br><br>
+            <label for="edad" >Edad</label>
+            <input type="edad" name='edad' id="edad" required><br><br>
+            <button type="submit">Enviar</button><br><br>
+        </form> 
+    
+    </main>
+    <!-- footer -->
+			<%- include('partials/footer') %>
+	<!-- /footer -->
+</body>
+</html>
