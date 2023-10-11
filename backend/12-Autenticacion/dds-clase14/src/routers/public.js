@@ -4,6 +4,7 @@
 //R2 /login
 
 import {Router} from 'express'
+//solo importamos el objeto
 import { Usuario } from '../models/usuarios.js'
 import { tokenSign } from '../utils/jwt.js'
 
