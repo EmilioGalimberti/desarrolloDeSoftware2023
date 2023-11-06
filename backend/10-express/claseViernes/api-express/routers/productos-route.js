@@ -17,6 +17,7 @@ router.post("/api/productos", async function (req, res) {
     definido y se completa cuando usa un middleware de análisis del cuerpo, como express.json()
      */
     const data  = req.body
+    console.log(data)
     //proceso asincronrono
     const nuevo = await servicio.add(data)
     res.json(nuevo) // Genera una respuesta con un objeto JSON código 200 OK

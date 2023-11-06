@@ -5,98 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a75b1e7-fd50-4559-a245-02eb95e40468" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../dds-clase14/src/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dds-clase14/src/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dds-clase14/src/.idea/src.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dds-clase14/src/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../13- Testing/clase16/jest-api-complete/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../13- Testing/clase16/jest-api-complete/.idea/jest-api-complete.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../13- Testing/clase16/jest-api-complete/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../13- Testing/clase16/jest-api-complete/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../13- Testing/clase16/jest-api-complete/src/src/data/db.sqlite" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-express/digitalHouse/modulo 6 express/clase25 falta hacer ejercitacion y ver clase en vivo/Material Extra - Express Validator Avanzado (Nuevo) (1).pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-express/digitalHouse/modulo 6 express/clase25 falta hacer ejercitacion y ver clase en vivo/Material Extra - Express Validator Avanzado (Nuevo).pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-express/digitalHouse/modulo 6 express/clase25 falta hacer ejercitacion y ver clase en vivo/Material Extra - Introducción a Express Validator (Nuevo) (1).pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-express/digitalHouse/modulo 6 express/clase25 falta hacer ejercitacion y ver clase en vivo/Material Extra - Introducción a Express Validator (Nuevo).pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-express/digitalHouse/modulo 6 express/clase25 falta hacer ejercitacion y ver clase en vivo/Material Extra - Middlewares - Aplicación (Nuevo).pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-express/digitalHouse/modulo 6 express/clase25 falta hacer ejercitacion y ver clase en vivo/Material Extra - Middlewares - Rutas (Nuevo).pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-express/digitalHouse/modulo 6 express/clase25 falta hacer ejercitacion y ver clase en vivo/ejercitacion-resuelta-m05c04.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-express/digitalHouse/modulo 6 express/clase25 falta hacer ejercitacion y ver clase en vivo/ejercitacion-resuelta-m05c04/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-express/digitalHouse/modulo 6 express/clase25 falta hacer ejercitacion y ver clase en vivo/ejercitacion-resuelta-m05c04/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-express/digitalHouse/modulo 6 express/clase25 falta hacer ejercitacion y ver clase en vivo/ejercitacion-resuelta-m05c04/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-express/digitalHouse/modulo 6 express/clase25 falta hacer ejercitacion y ver clase en vivo/ejercitacion-resuelta-m05c04/public/css/app.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-express/digitalHouse/modulo 6 express/clase25 falta hacer ejercitacion y ver clase en vivo/ejercitacion-resuelta-m05c04/public/css/bootstrap-grid.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-express/digitalHouse/modulo 6 express/clase25 falta hacer ejercitacion y ver clase en vivo/ejercitacion-resuelta-m05c04/public/images/img-home-banner.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-express/digitalHouse/modulo 6 express/clase25 falta hacer ejercitacion y ver clase en vivo/ejercitacion-resuelta-m05c04/public/images/logo-mercado-liebre.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-express/digitalHouse/modulo 6 express/clase25 falta hacer ejercitacion y ver clase en vivo/ejercitacion-resuelta-m05c04/public/images/products/1646347545680_img_.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-express/digitalHouse/modulo 6 express/clase25 falta hacer ejercitacion y ver clase en vivo/ejercitacion-resuelta-m05c04/public/images/products/1646348125956_img_.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-express/digitalHouse/modulo 6 express/clase25 falta hacer ejercitacion y ver clase en vivo/ejercitacion-resuelta-m05c04/public/images/products/1647388964717_img_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-express/digitalHouse/modulo 6 express/clase25 falta hacer ejercitacion y ver clase en vivo/ejercitacion-resuelta-m05c04/public/images/products/1647389001517_img_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-express/digitalHouse/modulo 6 express/clase25 falta hacer ejercitacion y ver clase en vivo/ejercitacion-resuelta-m05c04/public/images/products/1647389556029_img_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-express/digitalHouse/modulo 6 express/clase25 falta hacer ejercitacion y ver clase en vivo/ejercitacion-resuelta-m05c04/public/images/products/1647389583573_img_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-express/digitalHouse/modulo 6 express/clase25 falta hacer ejercitacion y ver clase en vivo/ejercitacion-resuelta-m05c04/public/images/products/1647389647716_img_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-express/digitalHouse/modulo 6 express/clase25 falta hacer ejercitacion y ver clase en vivo/ejercitacion-resuelta-m05c04/public/images/products/1647389756221_img_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-express/digitalHouse/modulo 6 express/clase25 falta hacer ejercitacion y ver clase en vivo/ejercitacion-resuelta-m05c04/public/images/products/1647389875527_img_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-express/digitalHouse/modulo 6 express/clase25 falta hacer ejercitacion y ver clase en vivo/ejercitacion-resuelta-m05c04/public/images/products/1647390293818_img_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-express/digitalHouse/modulo 6 express/clase25 falta hacer ejercitacion y ver clase en vivo/ejercitacion-resuelta-m05c04/public/images/products/1647390343314_img_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-express/digitalHouse/modulo 6 express/clase25 falta hacer ejercitacion y ver clase en vivo/ejercitacion-resuelta-m05c04/public/images/products/1647390647561_img_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-express/digitalHouse/modulo 6 express/clase25 falta hacer ejercitacion y ver clase en vivo/ejercitacion-resuelta-m05c04/public/images/products/1647391009233_img_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-express/digitalHouse/modulo 6 express/clase25 falta hacer ejercitacion y ver clase en vivo/ejercitacion-resuelta-m05c04/public/images/products/1647391077823_img_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-express/digitalHouse/modulo 6 express/clase25 falta hacer ejercitacion y ver clase en vivo/ejercitacion-resuelta-m05c04/public/images/products/1647391461278_img_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-express/digitalHouse/modulo 6 express/clase25 falta hacer ejercitacion y ver clase en vivo/ejercitacion-resuelta-m05c04/public/images/products/1647391625446_img_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-express/digitalHouse/modulo 6 express/clase25 falta hacer ejercitacion y ver clase en vivo/ejercitacion-resuelta-m05c04/public/images/products/1647391754502_img_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-express/digitalHouse/modulo 6 express/clase25 falta hacer ejercitacion y ver clase en vivo/ejercitacion-resuelta-m05c04/public/images/products/1647391837404_img_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-express/digitalHouse/modulo 6 express/clase25 falta hacer ejercitacion y ver clase en vivo/ejercitacion-resuelta-m05c04/public/images/products/1647544630396_img_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-express/digitalHouse/modulo 6 express/clase25 falta hacer ejercitacion y ver clase en vivo/ejercitacion-resuelta-m05c04/public/images/products/1647544660854_img_.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-express/digitalHouse/modulo 6 express/clase25 falta hacer ejercitacion y ver clase en vivo/ejercitacion-resuelta-m05c04/public/images/products/default-image.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-express/digitalHouse/modulo 6 express/clase25 falta hacer ejercitacion y ver clase en vivo/ejercitacion-resuelta-m05c04/public/images/products/img-aire-acondicionado.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-express/digitalHouse/modulo 6 express/clase25 falta hacer ejercitacion y ver clase en vivo/ejercitacion-resuelta-m05c04/public/images/products/img-apple-magic-keyboard.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-express/digitalHouse/modulo 6 express/clase25 falta hacer ejercitacion y ver clase en vivo/ejercitacion-resuelta-m05c04/public/images/products/img-bicicleta-fierce.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-express/digitalHouse/modulo 6 express/clase25 falta hacer ejercitacion y ver clase en vivo/ejercitacion-resuelta-m05c04/public/images/products/img-cafetera-moulinex.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-express/digitalHouse/modulo 6 express/clase25 falta hacer ejercitacion y ver clase en vivo/ejercitacion-resuelta-m05c04/public/images/products/img-camara-nikon.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-express/digitalHouse/modulo 6 express/clase25 falta hacer ejercitacion y ver clase en vivo/ejercitacion-resuelta-m05c04/public/images/products/img-heladera-whirpool.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-express/digitalHouse/modulo 6 express/clase25 falta hacer ejercitacion y ver clase en vivo/ejercitacion-resuelta-m05c04/public/images/products/img-home-theater-sony.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-express/digitalHouse/modulo 6 express/clase25 falta hacer ejercitacion y ver clase en vivo/ejercitacion-resuelta-m05c04/public/images/products/img-iphone-11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-express/digitalHouse/modulo 6 express/clase25 falta hacer ejercitacion y ver clase en vivo/ejercitacion-resuelta-m05c04/public/images/products/img-laptop-lenovo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-express/digitalHouse/modulo 6 express/clase25 falta hacer ejercitacion y ver clase en vivo/ejercitacion-resuelta-m05c04/public/images/products/img-macbook-pro-2019.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-express/digitalHouse/modulo 6 express/clase25 falta hacer ejercitacion y ver clase en vivo/ejercitacion-resuelta-m05c04/public/images/products/img-mouse-logitech.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-express/digitalHouse/modulo 6 express/clase25 falta hacer ejercitacion y ver clase en vivo/ejercitacion-resuelta-m05c04/public/images/products/img-parlante-bose.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-express/digitalHouse/modulo 6 express/clase25 falta hacer ejercitacion y ver clase en vivo/ejercitacion-resuelta-m05c04/public/images/products/img-parlante-sony.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-express/digitalHouse/modulo 6 express/clase25 falta hacer ejercitacion y ver clase en vivo/ejercitacion-resuelta-m05c04/public/images/products/img-samsung-galaxy-s10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-express/digitalHouse/modulo 6 express/clase25 falta hacer ejercitacion y ver clase en vivo/ejercitacion-resuelta-m05c04/public/images/products/img-sony-blueray.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-express/digitalHouse/modulo 6 express/clase25 falta hacer ejercitacion y ver clase en vivo/ejercitacion-resuelta-m05c04/public/images/products/img-tv-samsung-smart.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-express/digitalHouse/modulo 6 express/clase25 falta hacer ejercitacion y ver clase en vivo/ejercitacion-resuelta-m05c04/src/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-express/digitalHouse/modulo 6 express/clase25 falta hacer ejercitacion y ver clase en vivo/ejercitacion-resuelta-m05c04/src/bin/www" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-express/digitalHouse/modulo 6 express/clase25 falta hacer ejercitacion y ver clase en vivo/ejercitacion-resuelta-m05c04/src/controllers/mainController.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-express/digitalHouse/modulo 6 express/clase25 falta hacer ejercitacion y ver clase en vivo/ejercitacion-resuelta-m05c04/src/controllers/productsController.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-express/digitalHouse/modulo 6 express/clase25 falta hacer ejercitacion y ver clase en vivo/ejercitacion-resuelta-m05c04/src/data/productsDataBase.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-express/digitalHouse/modulo 6 express/clase25 falta hacer ejercitacion y ver clase en vivo/ejercitacion-resuelta-m05c04/src/routes/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-express/digitalHouse/modulo 6 express/clase25 falta hacer ejercitacion y ver clase en vivo/ejercitacion-resuelta-m05c04/src/routes/products.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-express/digitalHouse/modulo 6 express/clase25 falta hacer ejercitacion y ver clase en vivo/ejercitacion-resuelta-m05c04/src/views/detail.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-express/digitalHouse/modulo 6 express/clase25 falta hacer ejercitacion y ver clase en vivo/ejercitacion-resuelta-m05c04/src/views/error.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-express/digitalHouse/modulo 6 express/clase25 falta hacer ejercitacion y ver clase en vivo/ejercitacion-resuelta-m05c04/src/views/index.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-express/digitalHouse/modulo 6 express/clase25 falta hacer ejercitacion y ver clase en vivo/ejercitacion-resuelta-m05c04/src/views/partials/footer.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-express/digitalHouse/modulo 6 express/clase25 falta hacer ejercitacion y ver clase en vivo/ejercitacion-resuelta-m05c04/src/views/partials/head.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-express/digitalHouse/modulo 6 express/clase25 falta hacer ejercitacion y ver clase en vivo/ejercitacion-resuelta-m05c04/src/views/partials/headerNavbar.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-express/digitalHouse/modulo 6 express/clase25 falta hacer ejercitacion y ver clase en vivo/ejercitacion-resuelta-m05c04/src/views/product-create-form.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-express/digitalHouse/modulo 6 express/clase25 falta hacer ejercitacion y ver clase en vivo/ejercitacion-resuelta-m05c04/src/views/product-edit-form.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-express/digitalHouse/modulo 6 express/clase25 falta hacer ejercitacion y ver clase en vivo/ejercitacion-resuelta-m05c04/src/views/products.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-express/digitalHouse/modulo 6 express/clase25 falta hacer ejercitacion y ver clase en vivo/ejercitacion-resuelta-m05c04/src/views/results.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-express/digitalHouse/modulo 6 express/clase25 falta hacer ejercitacion y ver clase en vivo/material-para-la-clase.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-express/digitalHouse/modulo 6 express/clase25 falta hacer ejercitacion y ver clase en vivo/materiales-day-14a/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-express/digitalHouse/modulo 6 express/clase25 falta hacer ejercitacion y ver clase en vivo/materiales-day-14a/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-express/digitalHouse/modulo 6 express/clase25 falta hacer ejercitacion y ver clase en vivo/materiales-day-14a/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-express/digitalHouse/modulo 6 express/clase25 falta hacer ejercitacion y ver clase en vivo/materiales-day-14a/public/css/app.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-express/digitalHouse/modulo 6 express/clase25 falta hacer ejercitacion y ver clase en vivo/materiales-day-14a/public/images/node.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-express/digitalHouse/modulo 6 express/clase25 falta hacer ejercitacion y ver clase en vivo/materiales-day-14a/src/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-express/digitalHouse/modulo 6 express/clase25 falta hacer ejercitacion y ver clase en vivo/materiales-day-14a/src/controllers/Middlewares/logs/userLog.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-express/digitalHouse/modulo 6 express/clase25 falta hacer ejercitacion y ver clase en vivo/materiales-day-14a/src/controllers/Middlewares/userLogs.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-express/digitalHouse/modulo 6 express/clase25 falta hacer ejercitacion y ver clase en vivo/materiales-day-14a/src/controllers/mainController.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-express/digitalHouse/modulo 6 express/clase25 falta hacer ejercitacion y ver clase en vivo/materiales-day-14a/src/routes/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-express/digitalHouse/modulo 6 express/clase25 falta hacer ejercitacion y ver clase en vivo/materiales-day-14a/src/views/error.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../10-express/digitalHouse/modulo 6 express/clase25 falta hacer ejercitacion y ver clase en vivo/materiales-day-14a/src/views/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dds-clase14/src/routers/public.js" beforeDir="false" afterPath="$PROJECT_DIR$/../dds-clase14/src/routers/public.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../9-apiRestFul/api-rest/.idea/api-rest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../9-apiRestFul/api-rest/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../9-apiRestFul/api-rest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../9-apiRestFul/api-rest/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../frontend/1. html/Clase 10-10-23/.idea/Clase 10-10-23.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../frontend/2.SPA/spa_paso_a_paso/.idea/spa_paso_a_paso.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../frontend/3. React/holamundo_react/ej/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../frontend/3. React/holamundo_react/ej/.idea/ej.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../frontend/3. React/holamundo_react/ej/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../frontend/3. React/holamundo_react/ej/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../frontend/3. React/holamundo_react/ej/ejercicio-resuelto-react-holamundo.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-express/claseViernes/api-express/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-express/claseViernes/api-express/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-express/claseViernes/api-express/routers/productos-route.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-express/claseViernes/api-express/routers/productos-route.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10-express/martesPracticaExpress/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../10-express/martesPracticaExpress/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReciboDeSueldo.pdf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../13- Testing/clase16/jest-api-complete/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../13- Testing/clase16/jest-api-complete/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../frontend/html/Clase17.pdf" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,6 +32,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2WMaHInIuEHCDfKwqrcSlAVaxzY" />
   <component name="ProjectViewState">
@@ -136,10 +66,24 @@
       <workItem from="1697030560668" duration="5000" />
       <workItem from="1697031004592" duration="1337000" />
       <workItem from="1697033920117" duration="634000" />
+      <workItem from="1698245399380" duration="7915000" />
+      <workItem from="1698274957315" duration="15000" />
+      <workItem from="1698284837563" duration="9000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

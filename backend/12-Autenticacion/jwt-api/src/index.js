@@ -10,5 +10,4 @@ app.use('/api', privado.router)
 
 app.listen(3001, async () => {
     console.log('Server on PORT 3001...')
-
 })
